@@ -31,4 +31,4 @@ Obviusly everything is open-source, so you can check for viruses and modify the 
 IF I'M NOT TOO LAZY AND HAVE TIME, I WILL IMPLEMENT BRUTE FORCE ATTACKS AND THE POSSIBILITY TO CRACK ZIP ARCHIVES IN ADDITION TO RAR ARCHIVES.
 
 
-Credits: Ebola Man (https://www.youtube.com/@ebolaman_). I've copied almost all the code he made in one of his videos for one of the methods that is in this tool.
+Credits: Ebola Man (https://www.youtube.com/@ebolaman_). I've copied almost all the code he made in one of his videos for one of the methods that is included in this tool.
