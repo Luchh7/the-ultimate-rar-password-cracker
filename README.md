@@ -9,6 +9,8 @@ Install John The Ripper from this website (make sure to download the version tha
 
 Install hashcat from this website (download hashcat binaries) : https://hashcat.net/hashcat/
 
+PS. i reccomend you to download this wordlist (rockyou.txt): https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+
 Create a folder called 'zipcracker'on the Desktop and place all the files you downloaded from GitHub inside it. Create a folder named 'repositories' in the zipcracker folder and place John The Ripper and hashcat folders inside it after extracting them. Rename the hashcat folder to 'hashcat-6.2.6' and the John The Ripper folder to 'JohnTheRipper'.
 
 
@@ -27,3 +29,6 @@ Obviusly everything is open-source, so you can check for viruses and modify the 
 
 
 IF I'M NOT TOO LAZY AND HAVE TIME, I WILL IMPLEMENT BRUTE FORCE ATTACKS AND THE POSSIBILITY TO CRACK ZIP ARCHIVES IN ADDITION TO RAR ARCHIVES.
+
+
+Credits: Ebola Man (https://www.youtube.com/@ebolaman_). I've copied almost all the code he made in one of his videos for one of the methods that is in this tool.
