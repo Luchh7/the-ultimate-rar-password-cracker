@@ -1,23 +1,29 @@
 # the-ultimate-rar-password-cracker
-this tool can crack the passwords of a RAR archive (i will update the tool whit the zip archives in the future) using a dictionary attack
+This tool can crack the passwords of a RAR archive (I will update the tool to include ZIP archives in the future) using a dictionary attack.
 
 HOW TO USE THE TOOL:
 
 1. YOU NEED TO DOWNLOAD 2 TOOLS TO MAKE THE SCRIPT WORKING:
 
-Install John The Ripper from this website (make sure to download the one that match with your OS) : https://www.openwall.com/john/ 
+Install John The Ripper from this website (make sure to download the version that matches your OS) : https://www.openwall.com/john/ 
 
 Install hashcat from this website (download hashcat binaries) : https://hashcat.net/hashcat/
 
-Create a folder called zipcracker, put inside all the file you download from GitHub and create a folder called: repositories and put inside the john the ripper and the hashcat folder once you extract them (name the hashcat folder: hashcat-6.2.6 and the John The Ripper folder: JohnTheRipper)
+Create a folder called 'zipcracker'on the Desktop and place all the files you downloaded from GitHub inside it. Create a folder named 'repositories' in the zipcracker folder and place John The Ripper and hashcat folders inside it after extracting them. Rename the hashcat folder to 'hashcat-6.2.6' and the John The Ripper folder to 'JohnTheRipper'.
 
 
-Once you've done all these steps you can run the start.bat file and following the steps in the file
+Once you've completed all these steps, you can run the 'start.bat' file and follow the instructions provided in the file.
 
 These pics expain how to use the tool:
 
 ![foto path rar](https://github.com/Luchh7/the-ultimate-rar-password-cracker/assets/63601045/b6948e66-3e99-4d32-97da-82306a1acf19)
 
-Here is where you find the password cracked:
+Here is where you can find the cracked password:
 
 ![password](https://github.com/Luchh7/the-ultimate-rar-password-cracker/assets/63601045/6b4b900b-4a83-48cd-a70e-ef1a258e36c9)
+
+
+Obviusly everything is open-source, so you can check for viruses and modify the tool 
+
+
+IF I'M NOT TOO LAZY AND HAVE TIME, I WILL IMPLEMENT BRUTE FORCE ATTACKS AND THE POSSIBILITY TO CRACK ZIP ARCHIVES IN ADDITION TO RAR ARCHIVES.
