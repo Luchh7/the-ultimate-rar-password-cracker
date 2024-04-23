@@ -115,7 +115,7 @@ exit /b
 
 
 :MENUENG
-echo Seleziona un'opzione:
+echo Choose an option:
 echo.
 echo 1. "RAR password cracker using a cmd script (low impact on PC but slower, reccomended only for wordlist of 5-10k passwords)"
 echo.
@@ -133,7 +133,7 @@ if "%choice%"=="1" goto Opzione1ENG
 if "%choice%"=="2" goto Opzione2ENG
 if "%choice%"=="3" goto Opzione3ENG
 if "%choice%"=="4" exit
-echo Scelta non valida. Riprova.
+echo Invalid choice, try again.
 goto MENUENG
 
 :Opzione1ENG
