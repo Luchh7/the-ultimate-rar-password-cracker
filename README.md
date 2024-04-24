@@ -3,7 +3,7 @@ This tool can crack the passwords of a RAR archive (I will update the tool to in
 
 HOW TO USE THE TOOL:
 
-1. YOU NEED TO DOWNLOAD 2 TOOLS TO MAKE THE SCRIPT WORKING:
+1. YOU NEED TO DOWNLOAD 2 TOOLS TO MAKE THE SCRIPT WORK PROPERLY:
 
 Install John The Ripper from this website (make sure to download the version that matches your OS) : https://www.openwall.com/john/ 
 
